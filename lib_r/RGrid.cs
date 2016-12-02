@@ -8,19 +8,8 @@ using System.Threading.Tasks;
 
 namespace lib_r
 {
-    public struct RCell
+    public class RGrid
     {
-        public int num;
-
-        public RCell(int _num)
-        {
-            num = _num;
-
-            return;
-        }
+        private List<RCell> _cells;
     }
-
-
-
-
 }
