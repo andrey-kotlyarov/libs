@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lib_r
 {
-    public class Class1
+    public class RCell
     {
     }
 }
